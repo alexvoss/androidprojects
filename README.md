@@ -21,7 +21,17 @@ Installing [Android Developer
 Studio](https://developer.android.com/studio/index.html) is pretty
 straightforward, especially for someone who has already used IntelliJ.
 One small complication is the process of installing and managing the
-necessary Android SDKs. 
+necessary Android SDKs, which I will describe below.
+
+One note for users of Ubuntu: installing Android Studio via `snap` is
+trivial but it does mean that `snap` will control when updates are
+installed. You may or may not want this.
+
+One thing to (probably) do on a machine with enough memory is to
+increase the amount of memory available to Android Studio. On Linux,
+go to `File > Settings > Appearance & Behavior > System Settings >
+Memory Settings` and change the IDE heap size to something more
+generous than the default 2GB.
 
 ### Android SDKs
 
