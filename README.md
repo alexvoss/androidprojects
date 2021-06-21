@@ -66,3 +66,12 @@ right longer-term plan to use IntelliJ with the Android plugin(s)
 installed?
 
 
+## Keyboard Shortcuts
+
+[Keyboard
+shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts)
+do make life easier...
+
+| Shortcut | Description                                   |
+|:---------|:----------------------------------------------|
+| `Ctrl-B` | Goto XML, e.g., when in propterty entry field |
